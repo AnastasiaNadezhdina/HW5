@@ -86,7 +86,7 @@ public class Main {
                 System.out.println("Принадлежит к сезону: Осень " + "\n");
                 break;
             default:
-                System.out.println("Такого месяца не существует " + "\n");
+                System.out.println("Такого месяца не существует. " + "\n");
         }
     }
 }
